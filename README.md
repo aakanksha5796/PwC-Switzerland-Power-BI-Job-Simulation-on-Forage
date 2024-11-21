@@ -2,6 +2,7 @@
 August 2024
 
 **Overview**
+
 Completed the PwC Switzerland Power BI Job Simulation on Forage, honing my skills in data visualization, analytical problem-solving, and client communication to deliver actionable insights tailored to business needs.
 
 **Key Responsibilities and Achievements**
@@ -33,5 +34,6 @@ Proposed data-driven strategies to address gender imbalance, demonstrating a com
 - Gender-related KPIs: Pinpointing issues and offering strategies to foster balance at leadership levels.
   
 **Reflection**
+
 This simulation provided hands-on experience in data visualization and client engagement, refining my ability to turn raw data into impactful insights. It deepened my expertise in Power BI and enhanced my problem-solving skills, preparing me to meet the complex analytical needs of real-world clients.
 
